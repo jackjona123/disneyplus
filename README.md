@@ -1,3 +1,5 @@
-# A Disney Plus Clone
+# A Disney Plus Clone - Production
 
-Built With React, Styled Components, Firebase, and Redux.# disneyplus
+Built With React, Styled Components, Firebase, and Redux.
+
+## Built By: Jack Jona | © Disney. All Rights Reserved.
