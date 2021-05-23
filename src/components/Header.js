@@ -58,7 +58,9 @@ const Header = (props) => {
   return (
     <Nav>
       <Logo>
+        <a href="/">
         <img src="/images/logo.svg" alt="Disney+" />
+        </a>
       </Logo>
 
       {!userName ? (
@@ -66,7 +68,7 @@ const Header = (props) => {
       ) : (
         <>
           <NavMenu>
-            <a href="/home">
+            <a href="/">
               <img src="/images/home-icon.svg" alt="HOME" />
               <span>HOME</span>
             </a>
