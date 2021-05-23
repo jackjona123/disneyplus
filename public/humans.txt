@@ -1,0 +1,14 @@
+/* TEAM */
+
+Jack Jona
+https://jackjona.ga
+@jackjona123
+From: Toronto, Canada
+
+
+/* SITE */
+
+	Language:  English 
+	Doctype:HTML5
+	IDE: Visual Studio Code, Photoshop
+    Software: Built with React, Firebase, and Styled Components
