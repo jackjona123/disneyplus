@@ -36,11 +36,11 @@ const Detail = (props) => {
         <Controls>
           <Player>
             <img src="/images/play-icon-black.png" alt="" />
-            <span>Play</span>
+            <span><a href='https://app.plex.tv/desktop/' target="_blank" rel="noopener noreferrer">Play</a></span>
           </Player>
           <Trailer>
             <img src="/images/play-icon-white.png" alt="" />
-            <span>Trailer</span>
+            <span><a href='https://app.plex.tv/desktop/' target="_blank" rel="noopener noreferrer">Trailer</a></span>
           </Trailer>
           <AddList>
             <span />
@@ -128,8 +128,9 @@ const Player = styled.button`
   justify-content: center;
   letter-spacing: 1.8px;
   text-align: center;
+  text-decorations: none;
   text-transform: uppercase;
-  background: rgb (249, 249, 249);
+  background: rgb(198, 198, 198);
   border: none;
   color: rgb(0, 0, 0);
 
@@ -138,7 +139,7 @@ const Player = styled.button`
   }
 
   &:hover {
-    background: rgb(198, 198, 198);
+    background: rgb(112, 112, 112);
   }
 
   @media (max-width: 768px) {
