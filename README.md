@@ -2,4 +2,4 @@
 
 Built With React, Styled Components, Firebase, and Redux.
 
-## Built By: Jack Jona | © Disney. All Rights Reserved.
+## Built By: Jack Jona
